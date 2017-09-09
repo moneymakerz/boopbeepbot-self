@@ -1,0 +1,19 @@
+.prefix = Prefixi gosterir.
+
+.pingolc = Pinginizi olcer.
+
+.soyle = Bot istediginiz seyi soyleyebilir (kufur bile edebilir. xd)
+
+.oyundegistir (yetki gerektirir) = Bot istediginiz seyi oynayabilir.
+
+.bilgi = Bot hakkinda bilgi verir.
+
+.lenny = Lennyface gonderir.
+
+.nazi = Sieg Hail!
+
+.anket soru = Anket yapmaya yarar. (1-1 baslayacak ama 0-0 olarak kabul edin. Discord'da bu kadar oluyor.)
+
+.ban id = ban
+
+.kick id = kick

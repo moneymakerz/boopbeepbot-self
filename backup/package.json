@@ -1,0 +1,13 @@
+{
+  "name": "boopbeepbot",
+  "version": "0.0.1",
+  "description": "a bot for test",
+  "main": "bot.js",
+  "author": "katattatatatatattatat",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ms": "^2.0.0",
+    "performance-now": "^2.1.0"
+  }
+}
