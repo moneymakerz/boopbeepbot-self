@@ -147,10 +147,11 @@ bot.on("message", function(msg) {
 
 				setTimeout(function() {
 					member.removeRole(muteRole.id);
-				}, time,
-				
+				}, time,)
+
 			} else {return msg.reply("Bu komudu kullanmak için gerekli yetkiye sahip değilsin.")}
-		}
+
+
 		if (command === "sil") {
 		  let modRole = msg.guild.roles.find("name", "MODERATOR");
 		  let adminRole = msg.guild.roles.find("name", "ADMIN");
